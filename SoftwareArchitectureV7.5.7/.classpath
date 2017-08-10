@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="/jgrapht-core"/>
+	<classpathentry kind="lib" path="/Applications/FDR4.app/Contents/Frameworks/fdr.jar"/>
+	<classpathentry kind="lib" path="/Users/nsr/Dropbox/java/rabbitmq/amqp-client-4.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/nsr/Dropbox/java/rabbitmq/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="/Users/nsr/Dropbox/java/rabbitmq/slf4j-simple-1.7.22.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LTLMiner"/>
+	<classpathentry kind="lib" path="/Users/nsr/temp/OpenXES-20160212.jar" sourcepath="/Users/nsr/temp/OpenXES-20160212.jar"/>
+	<classpathentry kind="lib" path="/Users/nsr/temp/apague1/LTLMiner-master/src/lib/LTLChecker-alone.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
