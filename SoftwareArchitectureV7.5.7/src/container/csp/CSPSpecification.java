@@ -331,8 +331,8 @@ public class CSPSpecification {
 	}
 
 	public void check() {
-		FDRAdapter fdr = new RAdapter();
-
+		FDRAdapter fdr = new FDRAdapter();
+		
 		// invoke FDR
 		fdr.check(env.getConf().getConfName());
 

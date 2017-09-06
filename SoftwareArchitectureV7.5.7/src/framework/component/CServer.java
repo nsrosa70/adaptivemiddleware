@@ -16,7 +16,7 @@ public abstract class CServer extends Component {
 	}
 
 	public CServer(String name) {
-		this.id = new Identification(this.hashCode(), name);
+	    this.id = new Identification(this.hashCode(), name);
 		this.type = new Type(this);
 		this.constraints = new Constraints();
 		this.runtimeInfo = new RuntimeInfo();
